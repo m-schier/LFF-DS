@@ -1,7 +1,7 @@
 # LFF-DS
 
 Official Implementation of our paper _Learned Fourier Bases for Deep Set Feature Extractors in Automotive Reinforcement Learning_.
-You can find the draft version [here](http://www.tnt.uni-hannover.de/papers/data/1680/LFF-DS.pdf). This repository will be updated with a link to the final version once published by IEEE.
+You can find the [draft here](http://www.tnt.uni-hannover.de/papers/data/1680/LFF-DS.pdf), or the [final paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422233).
 
 > Neural networks in the automotive sector commonly have to process varying number of objects per observation. 
 Deep Set feature extractors have shown great success on problems in reinforcement learning with dynamic observations, achieving state-of-the-art performance on common tasks like highway driving.
@@ -60,11 +60,11 @@ Please cite this work as:
 
 ```bibtex
 @inproceedings { SchRei2023b,
-  author = {Maximilian Schier and Christoph Reinders and Bodo Rosenhahn},
+  author = {Schier, Maximilian and Reinders, Christoph and Rosenhahn, Bodo},
   title = {Learned Fourier Bases for Deep Set Feature Extractors in Automotive Reinforcement Learning},
   booktitle = {2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
   year = {2023},
-  month = sep,
-  pages = {to appear}
+  pages = {931-938},
+  doi = {10.1109/ITSC57777.2023.10422233}
 }
 ```
